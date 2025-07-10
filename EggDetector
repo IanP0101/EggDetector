@@ -1,1 +1,1 @@
-Protected_4894492889573639.lua.txt
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()
